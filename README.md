@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Haryono, Software Developer from Indonesian
+  Hi, I'm Haryono, IT Programmer from Indonesian
   <br>
   💻 I love writing code and learn anythings about it
 </p>
